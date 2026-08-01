@@ -4,3 +4,14 @@
     "jsonwebtoken": "^9.0.3"
   }
 }
+{
+  "name": "server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "...",
+    "dev": "..."
+  },
+  "dependencies": {
+    ...
+  }
+}
